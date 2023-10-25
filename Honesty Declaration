@@ -1,0 +1,20 @@
+Honesty Declaration
+------------------------
+
+I 蔡昱賢, 612755056H hereby submit my material for assessment.
+
+I certify that the following material submitted for evaluation in my course work 
+is my own work, except for material listed in the section 'External Sources' below.
+
+  1.) I have implemented the program by myself
+  2.) I have run the tests and experiments by myself and the results were as 
+      described in my report.
+  3.) I have written the report describing my design, work, experiments by myself.
+
+External Sources
+----------------
+1.	I used the opencv library and its documentation for http://www.opencv.org
+2.	I used the media library and its documentation for https://developers.google.com/mediapipe
+3.	I referred to the gesture recognition program on the https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-gesture.html
+4.  I referenced the ideas from this video https://youtu.be/xjrykYpaBBM?si=TlATPUo4Ub6xLXIU
+5.  I have referenced the ideas from  ChatGPT to write a program for the Gaussian factor
